@@ -13,7 +13,7 @@ h1{
     color: white;
 }
 
-button{
+button {
     font-size: 1.7rem;
     font-weight: bold;
     padding: 10px 20px;
@@ -89,5 +89,12 @@ li{
     padding: 8px 12px;
     font-size: 1.4rem;
     margin-left: 10px;
+
+}
+
+.reactour__close-button{
+    color: black;
+    top: 12px!important;
+    right: 13px!important;
 
 }
