@@ -20,3 +20,7 @@ You may also see any lint errors in the console.
 ## This is a simple project to study the reactour component
 
 Documentation about the component is available at [Reactour](https://docs.react.tours/)
+
+The to do list was based on this [video](https://www.youtube.com/watch?v=9wiWzu_tRB0)
+
+
